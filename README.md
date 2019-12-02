@@ -32,6 +32,7 @@ mount-koa-routes = auto mount koajs routes（base on koa-router） with routes_f
 
 - [koa-isajax](https://github.com/behind-design/koa-isajax) - Express req.xhr equivalent for Koa 2 applications.
 - [koa-setincontext](https://github.com/behind-design/koa-setincontext) - Flexible middleware for Koa 2 that lets you set properties to the ctx.state for every request.
+- [koa-json-rpc](https://github.com/koalex/koa-json-rpc) - JSON-RPC 2.0 middleware which implements the [https://www.jsonrpc.org/specification](https://www.jsonrpc.org/specification)
 
 
 ### Api convention
